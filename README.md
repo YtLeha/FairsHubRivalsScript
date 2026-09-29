@@ -1,0 +1,2 @@
+# FairsHubRivalsScript
+FairsHubRivals
